@@ -1,0 +1,42 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Bookmaker",
+  "_songSubName": "",
+  "_songAuthorName": "Kobaryo",
+  "_levelAuthorName": "Soba`s",
+  "_beatsPerMinute": 175,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "Bookmaker.egg",
+  "_coverImageFilename": "bm.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Sobapert++",
+            "_editorOffset": -50,
+            "_editorOldOffset": -50,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

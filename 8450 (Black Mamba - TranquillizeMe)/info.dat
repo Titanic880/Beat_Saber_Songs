@@ -1,0 +1,90 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Black Mamba",
+  "_songSubName": "",
+  "_songAuthorName": "Ghastly",
+  "_levelAuthorName": "TranquillizeMe",
+  "_beatsPerMinute": 128,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 32,
+  "_previewDuration": 18,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "PanicEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Lightshow",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "Lightshow",
+            "_editorOffset": 150,
+            "_editorOldOffset": 150,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "It Strikes",
+            "_editorOffset": 150,
+            "_editorOldOffset": 150,
+            "_colorLeft": {
+              "r": 0.8,
+              "g": 0.06,
+              "b": 0.44
+            },
+            "_colorRight": {
+              "r": 0.25,
+              "g": 0.25,
+              "b": 0.25
+            },
+            "_envColorLeft": {
+              "r": 0.8,
+              "g": 0.06,
+              "b": 0.44
+            },
+            "_envColorRight": {
+              "r": 0.7,
+              "g": 0.7,
+              "b": 0.7
+            },
+            "_obstacleColor": {
+              "r": 0.26,
+              "g": 0.7,
+              "b": 0.1
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [
+              "Mapping Extensions"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "TRICKL4SH 220",
+  "_songSubName": "",
+  "_songAuthorName": "Lite Show Magic",
+  "_levelAuthorName": "WaterBottle7",
+  "_beatsPerMinute": 220,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 19,
+  "_previewDuration": 10,
+  "_songFilename": "chicken.egg",
+  "_coverImageFilename": "Cover.png",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 22,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 105,
+            "_editorOldOffset": 105,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

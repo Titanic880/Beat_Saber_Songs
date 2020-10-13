@@ -1,0 +1,55 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Overkill (XP Map Edit)",
+  "_songSubName": "",
+  "_songAuthorName": "Riot",
+  "_levelAuthorName": "XionsProphecy",
+  "_beatsPerMinute": 174,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "overkill.egg",
+  "_coverImageFilename": "overkill.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper",
+        "_name": "XionsProphecy",
+        "_iconPath": ""
+      },
+      {
+        "_role": "Lighter",
+        "_name": "XionsProphecy",
+        "_iconPath": ""
+      }
+    ],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Stretch",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

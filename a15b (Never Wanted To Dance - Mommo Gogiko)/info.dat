@@ -1,0 +1,35 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Never Wanted To Dance",
+  "_songSubName": "",
+  "_songAuthorName": "Mindless Self Indulgence",
+  "_levelAuthorName": "Mommo Gogiko",
+  "_beatsPerMinute": 183,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "nwtd3.egg",
+  "_coverImageFilename": "if.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 215,
+            "_editorOldOffset": 215
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

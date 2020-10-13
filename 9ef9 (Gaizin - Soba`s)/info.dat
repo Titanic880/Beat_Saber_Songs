@@ -1,0 +1,42 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Gaizin",
+  "_songSubName": "(Kobaryo's FTN-Remix)",
+  "_songAuthorName": "USAO",
+  "_levelAuthorName": "Soba`s",
+  "_beatsPerMinute": 200,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 63,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_difficultyLabel": "Sobapert+",
+            "_editorOffset": -85,
+            "_editorOldOffset": -85,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Devilman Crybaby OP",
+  "_songSubName": "Man Human",
+  "_songAuthorName": "Denki Groove",
+  "_levelAuthorName": "Coconut",
+  "_beatsPerMinute": 133,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 0.7139999866485596,
+  "_previewDuration": 10,
+  "_songFilename": "Devilman Crybaby OP2.egg",
+  "_coverImageFilename": "crybaby.png",
+  "_environmentName": "TriangleEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Idk",
+            "_editorOffset": 714,
+            "_editorOldOffset": 714
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

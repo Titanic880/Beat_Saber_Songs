@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "BOOM BOOM POW SUPER BASS!",
+  "_songSubName": "",
+  "_songAuthorName": "The Black Eyed Peas",
+  "_levelAuthorName": "not kitten",
+  "_beatsPerMinute": 130.24000549316406,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "Easy.dat",
+          "_noteJumpMovementSpeed": 35,
+          "_noteJumpStartBeatOffset": 10,
+          "_customData": {
+            "_difficultyLabel": "thanks scrappy",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

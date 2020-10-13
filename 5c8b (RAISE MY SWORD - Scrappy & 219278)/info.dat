@@ -1,0 +1,58 @@
+{
+  "_version": "2.0.0",
+  "_songName": "RAISE MY SWORD",
+  "_songSubName": "",
+  "_songAuthorName": "GALNERYUS",
+  "_levelAuthorName": "Scrappy & 219278",
+  "_beatsPerMinute": 185,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 350.6454162597656,
+  "_previewDuration": 27,
+  "_songFilename": "Raise My Sword.egg",
+  "_coverImageFilename": "Raise My Sword.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Lighter",
+        "_name": "219278",
+        "_iconPath": "219278.png"
+      },
+      {
+        "_role": "Mapper",
+        "_name": "Scrappy",
+        "_iconPath": "Scrappy.png"
+      }
+    ],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Heart-Born Flames",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [
+              "33100 Total Lighting Elements",
+              "Total Mapping Time - 24 Hours"
+            ],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

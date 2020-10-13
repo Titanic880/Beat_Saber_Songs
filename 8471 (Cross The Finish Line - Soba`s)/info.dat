@@ -1,0 +1,42 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Cross The Finish Line",
+  "_songSubName": "(feat.nanahira)",
+  "_songAuthorName": "Kobaryo",
+  "_levelAuthorName": "Soba`s",
+  "_beatsPerMinute": 260,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "Cross The Finish Line.egg",
+  "_coverImageFilename": "Candy Speed Pops.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 22,
+          "_noteJumpStartBeatOffset": 0.30000001192092896,
+          "_customData": {
+            "_difficultyLabel": "Sobapert+",
+            "_editorOffset": -100,
+            "_editorOldOffset": -100,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

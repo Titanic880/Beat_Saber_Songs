@@ -1,0 +1,86 @@
+{
+  "_version": "2.0.0",
+  "_songName": "sex",
+  "_songSubName": "",
+  "_songAuthorName": "Eden",
+  "_levelAuthorName": "Repetition",
+  "_beatsPerMinute": 103,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_editor": "beatmapper",
+    "_editorSettings": {
+      "modSettings": {
+        "customColors": {
+          "isEnabled": true,
+          "colorLeft": "#f21212",
+          "colorLeftOverdrive": 0.67,
+          "colorRight": "#6b6c71",
+          "colorRightOverdrive": 0.77,
+          "envColorLeft": "#f21212",
+          "envColorLeftOverdrive": 0.55,
+          "envColorRight": "#6b6c71",
+          "envColorRightOverdrive": 0.63,
+          "obstacleColor": "#ece9e9",
+          "obstacleColorOverdrive": 1
+        },
+        "mappingExtensions": {
+          "isEnabled": false,
+          "numRows": 3,
+          "numCols": 4,
+          "colWidth": 1,
+          "rowHeight": 1
+        }
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 15.4,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_requirements": [],
+            "_colorLeft": {
+              "r": 2.856549019607843,
+              "g": 0.21247058823529413,
+              "b": 0.21247058823529413
+            },
+            "_colorRight": {
+              "r": 1.3889019607843138,
+              "g": 1.4018823529411766,
+              "b": 1.4667843137254901
+            },
+            "_envColorLeft": {
+              "r": 1.4709803921568627,
+              "g": 0.10941176470588236,
+              "b": 0.10941176470588236
+            },
+            "_envColorRight": {
+              "r": 0.6839607843137254,
+              "g": 0.6903529411764705,
+              "b": 0.722313725490196
+            },
+            "_obstacleColor": {
+              "r": 9.254901960784315,
+              "g": 9.137254901960784,
+              "b": 9.137254901960784
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Narwhals",
+  "_songSubName": "",
+  "_songAuthorName": "MrWeebl",
+  "_levelAuthorName": "ANG3Lx_",
+  "_beatsPerMinute": 151,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "Narwhals.egg",
+  "_coverImageFilename": "Narwhals.jpg",
+  "_environmentName": "TriangleEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 12.558526039123535,
+          "_noteJumpStartBeatOffset": 1.5454093217849731,
+          "_customData": {
+            "_difficultyLabel": "Expert",
+            "_editorOffset": 2,
+            "_editorOldOffset": 2
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

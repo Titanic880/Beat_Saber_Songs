@@ -1,0 +1,220 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Bills",
+  "_songSubName": "",
+  "_songAuthorName": "LunchMoney Lewis",
+  "_levelAuthorName": "Funrankable",
+  "_beatsPerMinute": 126,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 17.2,
+  "_previewDuration": 19.3,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper (Expert+)",
+        "_name": "Ryger",
+        "_iconPath": "Rycon.png"
+      },
+      {
+        "_role": "Mapper (Expert)",
+        "_name": "LittleAsi",
+        "_iconPath": "littleasi.png"
+      },
+      {
+        "_role": "Mapper (Hard)",
+        "_name": "StyngMe",
+        "_iconPath": "PngMe.png"
+      },
+      {
+        "_role": "Mapper (Normal, Easy)",
+        "_name": "baxter395",
+        "_iconPath": "baxman.png"
+      },
+      {
+        "_role": "Lighter",
+        "_name": "Trolav",
+        "_iconPath": "trolav.png"
+      },
+	  {
+        "_role": "Tester",
+        "_name": "Redmagi",
+        "_iconPath": "redmagi.png"
+      }
+    ],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "Easy.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_difficultyLabel": "      Easy",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.819,
+              "g": 0.772,
+              "b": 0.689
+            },
+            "_colorRight": {
+              "r": 0.286,
+              "g": 0.785,
+              "b": 0.432
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "Normal.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_difficultyLabel": "Baxter Normal",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.819,
+              "g": 0.772,
+              "b": 0.689
+            },
+            "_colorRight": {
+              "r": 0.286,
+              "g": 0.785,
+              "b": 0.432
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0.75,
+          "_customData": {
+            "_difficultyLabel": "StyngMe  Hard",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.819,
+              "g": 0.772,
+              "b": 0.689
+            },
+            "_colorRight": {
+              "r": 0.286,
+              "g": 0.785,
+              "b": 0.432
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "LittleAsi Expert",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.819,
+              "g": 0.772,
+              "b": 0.689
+            },
+            "_colorRight": {
+              "r": 0.286,
+              "g": 0.785,
+              "b": 0.432
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Ryger Ex+",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.819,
+              "g": 0.772,
+              "b": 0.689
+            },
+            "_colorRight": {
+              "r": 0.286,
+              "g": 0.785,
+              "b": 0.432
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Lightshow",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "Lightshow.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.819,
+              "g": 0.772,
+              "b": 0.689
+            },
+            "_colorRight": {
+              "r": 0.286,
+              "g": 0.785,
+              "b": 0.432
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

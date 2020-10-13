@@ -1,0 +1,39 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Bring em Out",
+  "_songSubName": "",
+  "_songAuthorName": "PlainSight",
+  "_levelAuthorName": "Umuruq",
+  "_beatsPerMinute": 150,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "Bring em Out.egg",
+  "_coverImageFilename": "Out.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 24,
+          "_noteJumpStartBeatOffset": 0.20000000298023224,
+          "_customData": {
+            "_difficultyLabel": "OwO",
+            "_editorOffset": 100,
+            "_editorOldOffset": 100,
+            "_requirements": [
+              "Mapping Extensions"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

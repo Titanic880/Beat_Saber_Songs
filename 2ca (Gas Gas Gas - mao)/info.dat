@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Gas Gas Gas",
+  "_songSubName": "",
+  "_songAuthorName": "[mao_]",
+  "_levelAuthorName": "Manuel - Initial D",
+  "_beatsPerMinute": 308,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 77,
+  "_previewDuration": 7,
+  "_songFilename": "Manuel - Gas Gas Gas.egg",
+  "_coverImageFilename": "Gas Gas Gas Thumbnail.png",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 100,
+            "_editorOldOffset": 100,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
